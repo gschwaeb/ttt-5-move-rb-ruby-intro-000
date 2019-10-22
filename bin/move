@@ -10,3 +10,12 @@ input=gets.strip
 index=input_to_index(input)
 move(board,index,current_player="X")
 display_board(board)
+
+
+#puts display_board(board)
+#puts "Where would you like to go?"
+#input=gets.strip
+#input_to_index(index)
+#move(board,index,"X")
+#>>>>>>> ee8d769ab98734d36b9d9781574d0db773ab9d74
+#display_board(board)
